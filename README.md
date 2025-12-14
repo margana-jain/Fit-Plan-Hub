@@ -121,3 +121,6 @@ GET	    /api/plans/feed	Get plans from followed trainers	User
 POST	  /api/subscriptions	Subscribe to a plan	User
 POST	  /api/follow	Follow a trainer	User
 POST	  /api/plans	Create a plan	Trainer
+
+
+PostMan collections: https://web.postman.co/workspace/My-Workspace~675f3e7d-0e44-43f7-8c48-b3e735fdfc92/collection/36645389-4390de93-5293-47b7-8785-5d8106ca0bb1?action=share&source=copy-link&creator=36645389
