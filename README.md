@@ -1,4 +1,4 @@
-FitPlanHub - Fitness Marketplace Platform
+# FitPlanHub - Fitness Marketplace Platform
 
 FitPlanHub is a full-stack MERN application that connects Fitness Trainers with users seeking personalized workout plans. It features a dual-role authentication system (Trainers vs. Users), a subscription model, and a personalized social feed.
 Features
